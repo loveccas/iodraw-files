@@ -19,15 +19,6 @@
         <mxCell id="ZIBqAbrIpqT4sQu16N9w-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据处理模块&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="350" y="436" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4G20Lx8KHFmIGDtbWW07-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4G20Lx8KHFmIGDtbWW07-26" target="4G20Lx8KHFmIGDtbWW07-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="190" y="345" />
-              <mxPoint x="190" y="550" />
-              <mxPoint x="120" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4G20Lx8KHFmIGDtbWW07-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;桥架横移动统&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -38,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4G20Lx8KHFmIGDtbWW07-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;切削系统&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="30" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4G20Lx8KHFmIGDtbWW07-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4G20Lx8KHFmIGDtbWW07-28" target="ZIBqAbrIpqT4sQu16N9w-4">
           <mxGeometry relative="1" as="geometry" />
