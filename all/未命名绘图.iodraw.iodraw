@@ -25,14 +25,13 @@
         <mxCell id="4G20Lx8KHFmIGDtbWW07-23" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;水质&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="625" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4G20Lx8KHFmIGDtbWW07-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="625" y="280" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4G20Lx8KHFmIGDtbWW07-25" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;土质&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="295" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="4G20Lx8KHFmIGDtbWW07-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;桥架横移动统&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="165" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4G20Lx8KHFmIGDtbWW07-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4G20Lx8KHFmIGDtbWW07-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4G20Lx8KHFmIGDtbWW07-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;切削系统&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="30" y="570" width="120" height="60" as="geometry" />
@@ -69,6 +68,15 @@
         </mxCell>
         <mxCell id="4G20Lx8KHFmIGDtbWW07-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4G20Lx8KHFmIGDtbWW07-7" target="ZIBqAbrIpqT4sQu16N9w-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4G20Lx8KHFmIGDtbWW07-43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="625" y="280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4G20Lx8KHFmIGDtbWW07-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="4G20Lx8KHFmIGDtbWW07-43">
+          <mxGeometry width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4G20Lx8KHFmIGDtbWW07-25" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;土质&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4G20Lx8KHFmIGDtbWW07-43">
+          <mxGeometry x="35" y="15" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
