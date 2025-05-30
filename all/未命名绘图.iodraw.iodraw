@@ -40,8 +40,8 @@
         <mxCell id="4G20Lx8KHFmIGDtbWW07-25" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;土质&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="295" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4G20Lx8KHFmIGDtbWW07-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据处理模块&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="350" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="4G20Lx8KHFmIGDtbWW07-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;桥架横移动统&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="165" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
