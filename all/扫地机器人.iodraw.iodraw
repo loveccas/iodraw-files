@@ -61,6 +61,9 @@
         <mxCell id="RPKVuRqdpmClS3n2tixK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RPKVuRqdpmClS3n2tixK-9" target="RPKVuRqdpmClS3n2tixK-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RPKVuRqdpmClS3n2tixK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RPKVuRqdpmClS3n2tixK-9" target="RPKVuRqdpmClS3n2tixK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RPKVuRqdpmClS3n2tixK-9" value="树莓派" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="840" width="230" height="140" as="geometry" />
         </mxCell>
@@ -70,8 +73,11 @@
         <mxCell id="RPKVuRqdpmClS3n2tixK-12" value="转向舵机*1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="960" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RPKVuRqdpmClS3n2tixK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RPKVuRqdpmClS3n2tixK-14" target="RPKVuRqdpmClS3n2tixK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RPKVuRqdpmClS3n2tixK-14" value="12V电机驱动1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="700" width="230" height="140" as="geometry" />
+          <mxGeometry x="700" y="700" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
