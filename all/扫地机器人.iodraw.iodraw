@@ -65,10 +65,13 @@
           <mxGeometry x="380" y="840" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="RPKVuRqdpmClS3n2tixK-10" value="前轮驱动电机*1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RPKVuRqdpmClS3n2tixK-12" value="转向舵机*1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RPKVuRqdpmClS3n2tixK-14" value="12V电机驱动1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="700" width="230" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
