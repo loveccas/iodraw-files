@@ -59,7 +59,10 @@
           <mxGeometry x="-170" y="295" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RPKVuRqdpmClS3n2tixK-9" value="树莓派" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="230" width="230" height="140" as="geometry" />
+          <mxGeometry x="380" y="840" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="RPKVuRqdpmClS3n2tixK-10" value="前轮驱动电机*1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="235" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
