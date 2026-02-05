@@ -79,8 +79,11 @@
         <mxCell id="RPKVuRqdpmClS3n2tixK-14" value="12V电机驱动1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="780" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RPKVuRqdpmClS3n2tixK-17" value="转向舵机*1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="970" width="120" height="60" as="geometry" />
+        <mxCell id="RPKVuRqdpmClS3n2tixK-17" value="激光雷达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RPKVuRqdpmClS3n2tixK-18" value="激光雷达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
