@@ -67,6 +67,9 @@
         <mxCell id="RPKVuRqdpmClS3n2tixK-10" value="前轮驱动电机*1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="820" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RPKVuRqdpmClS3n2tixK-12" value="转向舵机*1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
