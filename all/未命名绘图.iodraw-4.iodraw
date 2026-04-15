@@ -42,7 +42,7 @@
         <mxCell id="5ohm-zgm2qCX9mia1n5v-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;τ*&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="558" y="451" width="28" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5ohm-zgm2qCX9mia1n5v-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;d&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5ohm-zgm2qCX9mia1n5v-7" value="d" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="586" width="24" height="26" as="geometry" />
         </mxCell>
       </root>
