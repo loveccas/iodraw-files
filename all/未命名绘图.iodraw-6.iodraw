@@ -93,11 +93,11 @@
         <mxCell id="4Ye0O2p2YunWDroykYYr-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4Ye0O2p2YunWDroykYYr-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="19" y="1340" width="120" height="60" as="geometry" />
+        <mxCell id="4Ye0O2p2YunWDroykYYr-16" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-bidi-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;font-size:12.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;从设备接收数据帧&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9" y="1686" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4Ye0O2p2YunWDroykYYr-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="12" y="1677" width="120" height="60" as="geometry" />
+        <mxCell id="4Ye0O2p2YunWDroykYYr-17" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-bidi-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;font-size:12.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;主设备发送数据帧&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-128" y="1683" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Ye0O2p2YunWDroykYYr-18" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-bidi-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;font-size:12.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;主设备生成数据帧&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-275" y="1686" width="120" height="60" as="geometry" />
