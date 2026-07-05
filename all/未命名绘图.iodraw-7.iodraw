@@ -94,8 +94,14 @@
         <mxCell id="VVVSKsHsUMeozLrKGoR6-28" value="数据校验去重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="449" y="1266" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VVVSKsHsUMeozLrKGoR6-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVVSKsHsUMeozLrKGoR6-29" target="VVVSKsHsUMeozLrKGoR6-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VVVSKsHsUMeozLrKGoR6-29" value="本地白名单匹配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="449" y="1354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VVVSKsHsUMeozLrKGoR6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVVSKsHsUMeozLrKGoR6-30" target="VVVSKsHsUMeozLrKGoR6-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VVVSKsHsUMeozLrKGoR6-30" value="输出合法非法结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="449" y="1443" width="120" height="60" as="geometry" />
