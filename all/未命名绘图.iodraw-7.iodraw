@@ -109,6 +109,9 @@
         <mxCell id="VVVSKsHsUMeozLrKGoR6-31" value="等待主控执行动作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="449" y="1531" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VVVSKsHsUMeozLrKGoR6-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVVSKsHsUMeozLrKGoR6-33" target="VVVSKsHsUMeozLrKGoR6-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VVVSKsHsUMeozLrKGoR6-33" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;GPS&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;模块上电初始化&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="873" y="1133" width="120" height="60" as="geometry" />
         </mxCell>
@@ -121,17 +124,11 @@
         <mxCell id="VVVSKsHsUMeozLrKGoR6-36" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;解析经纬度、时间、定位状态&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="873" y="1399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VVVSKsHsUMeozLrKGoR6-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VVVSKsHsUMeozLrKGoR6-37" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;电子围栏区域校验判断&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="873" y="1487" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VVVSKsHsUMeozLrKGoR6-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VVVSKsHsUMeozLrKGoR6-38" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;定位数据定时打包上传&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="873" y="1576" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VVVSKsHsUMeozLrKGoR6-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="873" y="1664" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VVVSKsHsUMeozLrKGoR6-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="873" y="1753" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VVVSKsHsUMeozLrKGoR6-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVVSKsHsUMeozLrKGoR6-41" target="VVVSKsHsUMeozLrKGoR6-42">
           <mxGeometry relative="1" as="geometry" />
