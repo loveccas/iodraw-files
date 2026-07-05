@@ -115,14 +115,26 @@
         <mxCell id="VVVSKsHsUMeozLrKGoR6-33" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;GPS&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;模块上电初始化&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="873" y="1133" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VVVSKsHsUMeozLrKGoR6-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVVSKsHsUMeozLrKGoR6-34" target="VVVSKsHsUMeozLrKGoR6-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VVVSKsHsUMeozLrKGoR6-34" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;串口接收定位报文&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="873" y="1222" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VVVSKsHsUMeozLrKGoR6-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVVSKsHsUMeozLrKGoR6-35" target="VVVSKsHsUMeozLrKGoR6-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VVVSKsHsUMeozLrKGoR6-35" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;过滤无效乱码数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="873" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VVVSKsHsUMeozLrKGoR6-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVVSKsHsUMeozLrKGoR6-36" target="VVVSKsHsUMeozLrKGoR6-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VVVSKsHsUMeozLrKGoR6-36" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;解析经纬度、时间、定位状态&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="873" y="1399" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VVVSKsHsUMeozLrKGoR6-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVVSKsHsUMeozLrKGoR6-37" target="VVVSKsHsUMeozLrKGoR6-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VVVSKsHsUMeozLrKGoR6-37" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;电子围栏区域校验判断&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="873" y="1487" width="120" height="60" as="geometry" />
