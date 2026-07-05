@@ -67,6 +67,9 @@
         <mxCell id="VVVSKsHsUMeozLrKGoR6-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;上位机管理层&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="634" y="350" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="VVVSKsHsUMeozLrKGoR6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.524;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VVVSKsHsUMeozLrKGoR6-1" target="VVVSKsHsUMeozLrKGoR6-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
