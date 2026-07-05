@@ -133,8 +133,14 @@
         <mxCell id="VVVSKsHsUMeozLrKGoR6-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="873" y="1753" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VVVSKsHsUMeozLrKGoR6-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVVSKsHsUMeozLrKGoR6-41" target="VVVSKsHsUMeozLrKGoR6-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VVVSKsHsUMeozLrKGoR6-41" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px; text-align: justify; text-indent: 28px;&quot;&gt;接收主控触发信号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VVVSKsHsUMeozLrKGoR6-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVVSKsHsUMeozLrKGoR6-42" target="VVVSKsHsUMeozLrKGoR6-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VVVSKsHsUMeozLrKGoR6-42" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px; text-align: justify; text-indent: 28px;&quot;&gt;摄像头取景初始化&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="1479" width="120" height="60" as="geometry" />
