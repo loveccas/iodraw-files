@@ -19,6 +19,11 @@
         <mxCell id="WpW_1zJHNIhg1qAFdBEO-4" value="二次网" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="877" y="620" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CG2onIXe5yZ4n7a_ap8m-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WpW_1zJHNIhg1qAFdBEO-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="549.952380952381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WpW_1zJHNIhg1qAFdBEO-5" value="楼宇回水" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="877" y="520" width="120" height="60" as="geometry" />
         </mxCell>
