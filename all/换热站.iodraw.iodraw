@@ -90,31 +90,28 @@
         <mxCell id="WpW_1zJHNIhg1qAFdBEO-29" value="锅炉温度PID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="228" y="498" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WpW_1zJHNIhg1qAFdBEO-37" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="344" y="410" width="70" height="220.48000000000002" as="geometry" />
-        </mxCell>
-        <mxCell id="WpW_1zJHNIhg1qAFdBEO-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="WpW_1zJHNIhg1qAFdBEO-37" edge="1">
+        <mxCell id="WpW_1zJHNIhg1qAFdBEO-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint as="sourcePoint" />
-            <mxPoint x="70" as="targetPoint" />
+            <mxPoint x="344" y="410" as="sourcePoint" />
+            <mxPoint x="414" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WpW_1zJHNIhg1qAFdBEO-34" value="" style="endArrow=classic;html=1;rounded=0;" parent="WpW_1zJHNIhg1qAFdBEO-37" edge="1">
+        <mxCell id="WpW_1zJHNIhg1qAFdBEO-34" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="0.2400000000000091" as="sourcePoint" />
-            <mxPoint x="70" y="220.24" as="targetPoint" />
+            <mxPoint x="414" y="410.24" as="sourcePoint" />
+            <mxPoint x="414" y="630.24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WpW_1zJHNIhg1qAFdBEO-35" value="" style="endArrow=classic;html=1;rounded=0;" parent="WpW_1zJHNIhg1qAFdBEO-37" edge="1">
+        <mxCell id="WpW_1zJHNIhg1qAFdBEO-35" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="220.24" as="sourcePoint" />
-            <mxPoint y="220.48000000000002" as="targetPoint" />
+            <mxPoint x="414" y="630.24" as="sourcePoint" />
+            <mxPoint x="344" y="630.48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WpW_1zJHNIhg1qAFdBEO-36" value="" style="endArrow=classic;html=1;rounded=0;" parent="WpW_1zJHNIhg1qAFdBEO-37" edge="1">
+        <mxCell id="WpW_1zJHNIhg1qAFdBEO-36" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="220.24" as="sourcePoint" />
-            <mxPoint y="0.2400000000000091" as="targetPoint" />
+            <mxPoint x="344" y="630.24" as="sourcePoint" />
+            <mxPoint x="344" y="410.24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
