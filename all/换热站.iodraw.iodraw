@@ -303,8 +303,11 @@
         <mxCell id="UGdFroSOfFTMQMQ9DJaz-38" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;I0.0&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1274" y="1578" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JEOn_NYqVDxKRTxc-o-r-1" value="仿真PID控制系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JEOn_NYqVDxKRTxc-o-r-1" value="仿真PID控制系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2737" y="-359" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5AzhNRpqzUQh1xvx0VWN-1" value="仿真PID控制系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2551" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
