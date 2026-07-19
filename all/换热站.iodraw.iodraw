@@ -304,10 +304,10 @@
           <mxGeometry x="1274" y="1578" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JEOn_NYqVDxKRTxc-o-r-1" value="仿真PID控制系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2737" y="-359" width="120" height="60" as="geometry" />
+          <mxGeometry x="2846" y="-184" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5AzhNRpqzUQh1xvx0VWN-1" value="仿真PID控制系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2551" y="-240" width="120" height="60" as="geometry" />
+        <mxCell id="5AzhNRpqzUQh1xvx0VWN-1" value="PLC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2654" y="-184" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
