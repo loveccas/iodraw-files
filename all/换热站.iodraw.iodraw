@@ -364,6 +364,9 @@
         <mxCell id="5AzhNRpqzUQh1xvx0VWN-18" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;上位机显示&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2560.5" y="-26" width="83" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5AzhNRpqzUQh1xvx0VWN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.492;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5AzhNRpqzUQh1xvx0VWN-5" target="5AzhNRpqzUQh1xvx0VWN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
