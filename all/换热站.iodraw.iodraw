@@ -331,13 +331,13 @@
           <mxGeometry x="2443" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5AzhNRpqzUQh1xvx0VWN-9" value="报警记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2648" y="-35" width="120" height="60" as="geometry" />
+          <mxGeometry x="2689" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5AzhNRpqzUQh1xvx0VWN-10" value="PLC IO监视" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2835" y="-41" width="120" height="60" as="geometry" />
+          <mxGeometry x="2867" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5AzhNRpqzUQh1xvx0VWN-13" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;数据采集与转发&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2775.5" y="-195" width="109" height="40" as="geometry" />
+          <mxGeometry x="2775.5" y="-192" width="109" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
