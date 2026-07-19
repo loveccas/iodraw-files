@@ -336,9 +336,6 @@
         <mxCell id="5AzhNRpqzUQh1xvx0VWN-10" value="PLC IO监视" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2835" y="-41" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5AzhNRpqzUQh1xvx0VWN-11" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;数据采集与转发&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3011" y="-104" width="102" height="26" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
