@@ -345,8 +345,8 @@
         <mxCell id="5AzhNRpqzUQh1xvx0VWN-13" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;数据采集与转发&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2775.5" y="-192" width="109" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5AzhNRpqzUQh1xvx0VWN-18" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;数据采集与转发&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2785.5" y="-182" width="109" height="40" as="geometry" />
+        <mxCell id="5AzhNRpqzUQh1xvx0VWN-18" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;上位机显示&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2560.5" y="-26" width="83" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
