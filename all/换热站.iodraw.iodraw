@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5AzhNRpqzUQh1xvx0VWN-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2533" y="-279" width="602" height="302" as="geometry" />
+        </mxCell>
         <mxCell id="5AzhNRpqzUQh1xvx0VWN-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2689" y="-194" width="297" height="117" as="geometry" />
         </mxCell>
@@ -341,9 +344,6 @@
         </mxCell>
         <mxCell id="5AzhNRpqzUQh1xvx0VWN-13" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;数据采集与转发&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2775.5" y="-192" width="109" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5AzhNRpqzUQh1xvx0VWN-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2759" y="-163" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
