@@ -330,8 +330,11 @@
         <mxCell id="5AzhNRpqzUQh1xvx0VWN-8" value="历时曲线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2443" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5AzhNRpqzUQh1xvx0VWN-9" value="数据曲线显示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5AzhNRpqzUQh1xvx0VWN-9" value="报警记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2654" y="-41" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5AzhNRpqzUQh1xvx0VWN-10" value="报警记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2835" y="-41" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
