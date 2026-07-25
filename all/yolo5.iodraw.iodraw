@@ -55,7 +55,7 @@
         <mxCell id="-VUSL7rTdmGxbW82WH2--15" value="SiLU" style="rounded=1;whiteSpace=wrap;html=1;fontSize=35;fontStyle=1;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;align=center;" vertex="1" parent="-VUSL7rTdmGxbW82WH2--12">
           <mxGeometry x="246" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-VUSL7rTdmGxbW82WH2--48" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
+        <mxCell id="-VUSL7rTdmGxbW82WH2--48" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="701" y="137" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="-VUSL7rTdmGxbW82WH2--49" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
@@ -81,14 +81,14 @@
         </mxCell>
         <mxCell id="-VUSL7rTdmGxbW82WH2--55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="422.28999999999996" as="sourcePoint" />
-            <mxPoint x="225" y="422.28999999999996" as="targetPoint" />
+            <mxPoint x="80" y="418.28999999999996" as="sourcePoint" />
+            <mxPoint x="225" y="418.28999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-VUSL7rTdmGxbW82WH2--56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="260" as="sourcePoint" />
-            <mxPoint x="245" y="260" as="targetPoint" />
+            <mxPoint x="80" y="591.29" as="sourcePoint" />
+            <mxPoint x="225" y="591.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
