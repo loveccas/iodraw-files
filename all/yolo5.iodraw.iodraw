@@ -61,8 +61,8 @@
         <mxCell id="-VUSL7rTdmGxbW82WH2--49" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
           <mxGeometry x="701" y="349" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="-VUSL7rTdmGxbW82WH2--50" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="552" y="323" width="40" height="26" as="geometry" />
+        <mxCell id="-VUSL7rTdmGxbW82WH2--50" value="76x76x255" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="534" y="323" width="77" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
