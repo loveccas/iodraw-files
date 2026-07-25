@@ -40,6 +40,9 @@
         <mxCell id="-VUSL7rTdmGxbW82WH2--15" value="SiLU" style="rounded=1;whiteSpace=wrap;html=1;fontSize=35;fontStyle=1;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;align=center;" vertex="1" parent="-VUSL7rTdmGxbW82WH2--12">
           <mxGeometry x="246" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-VUSL7rTdmGxbW82WH2--16" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="754" y="184" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
