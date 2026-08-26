@@ -128,6 +128,9 @@
         <mxCell id="3HXeySuQnuGDAvdcSmJL-4" value="GNSS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3HXeySuQnuGDAvdcSmJL-5" value="无人船硬件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
