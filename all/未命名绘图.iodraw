@@ -171,8 +171,11 @@
         <mxCell id="3HXeySuQnuGDAvdcSmJL-8" value="RK3588" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="2140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3HXeySuQnuGDAvdcSmJL-18" value="左推进器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-253.69" y="1920" width="120" height="60" as="geometry" />
+        <mxCell id="3HXeySuQnuGDAvdcSmJL-18" value="数传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="2005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HXeySuQnuGDAvdcSmJL-19" value="左推进器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2005" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
