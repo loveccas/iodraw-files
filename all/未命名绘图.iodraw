@@ -137,8 +137,8 @@
         <mxCell id="3HXeySuQnuGDAvdcSmJL-7" value="IMU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3HXeySuQnuGDAvdcSmJL-8" value="无人船硬件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="2090" width="120" height="60" as="geometry" />
+        <mxCell id="3HXeySuQnuGDAvdcSmJL-8" value="RK3588" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
