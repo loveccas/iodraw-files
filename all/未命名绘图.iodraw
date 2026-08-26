@@ -144,7 +144,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3HXeySuQnuGDAvdcSmJL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3HXeySuQnuGDAvdcSmJL-6" target="3HXeySuQnuGDAvdcSmJL-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="1970" />
+              <mxPoint x="-160" y="2140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3HXeySuQnuGDAvdcSmJL-6" value="PIXHAWK飞控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1910" width="120" height="60" as="geometry" />
@@ -154,6 +159,9 @@
         </mxCell>
         <mxCell id="3HXeySuQnuGDAvdcSmJL-7" value="Camera" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="24" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HXeySuQnuGDAvdcSmJL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3HXeySuQnuGDAvdcSmJL-8" target="3HXeySuQnuGDAvdcSmJL-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3HXeySuQnuGDAvdcSmJL-8" value="RK3588" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="2140" width="120" height="60" as="geometry" />
