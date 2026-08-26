@@ -123,7 +123,7 @@
           <mxGeometry x="-263.69" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3HXeySuQnuGDAvdcSmJL-3" value="右推进器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="22" y="2000" width="120" height="60" as="geometry" />
+          <mxGeometry x="24" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3HXeySuQnuGDAvdcSmJL-4" value="GNSS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1860" width="120" height="60" as="geometry" />
@@ -135,7 +135,7 @@
           <mxGeometry x="-120" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3HXeySuQnuGDAvdcSmJL-7" value="IMU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="2160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100" y="2230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3HXeySuQnuGDAvdcSmJL-8" value="RK3588" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="2160" width="120" height="60" as="geometry" />
