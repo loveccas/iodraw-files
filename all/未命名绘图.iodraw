@@ -146,7 +146,7 @@
         <mxCell id="3HXeySuQnuGDAvdcSmJL-6" value="PIXHAWK飞控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3HXeySuQnuGDAvdcSmJL-7" value="IMU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3HXeySuQnuGDAvdcSmJL-7" value="Camera" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="24" y="2140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3HXeySuQnuGDAvdcSmJL-8" value="RK3588" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
