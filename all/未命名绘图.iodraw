@@ -125,8 +125,8 @@
         <mxCell id="3HXeySuQnuGDAvdcSmJL-3" value="右推进器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="2190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3HXeySuQnuGDAvdcSmJL-4" value="右推进器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="2200" width="120" height="60" as="geometry" />
+        <mxCell id="3HXeySuQnuGDAvdcSmJL-4" value="GNSS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
