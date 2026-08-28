@@ -465,8 +465,8 @@
             <mxPoint x="395.125" y="539.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-25" value="80度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=15;" vertex="1" parent="c-njpIL6LN4zoc424hII-31">
-          <mxGeometry x="44" y="294" width="50" height="30" as="geometry" />
+        <mxCell id="c-njpIL6LN4zoc424hII-25" value="&lt;font color=&quot;#000000&quot;&gt;水平视场角：80度&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=15;" vertex="1" parent="c-njpIL6LN4zoc424hII-31">
+          <mxGeometry x="-1" y="294" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
