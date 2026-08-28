@@ -318,6 +318,9 @@
         <mxCell id="JbfIdq2zpQrfQx0vHxM_-33" value="&lt;span style=&quot;color: rgb(0, 0, 48); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-weight: 700; text-align: start; white-space-collapse: break-spaces;&quot;&gt;上下台阶&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-341" y="3654" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JbfIdq2zpQrfQx0vHxM_-38" value="&lt;span style=&quot;color: rgb(0, 0, 48); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-weight: 700; text-align: start; white-space-collapse: break-spaces;&quot;&gt;跨栏&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-341" y="3785" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
