@@ -438,6 +438,9 @@
         <mxCell id="c-njpIL6LN4zoc424hII-25" value="80度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="c-njpIL6LN4zoc424hII-16">
           <mxGeometry x="102" y="27" width="43" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="c-njpIL6LN4zoc424hII-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="c-njpIL6LN4zoc424hII-16">
+          <mxGeometry x="44" y="30.5" width="19" height="19" as="geometry" />
+        </mxCell>
         <mxCell id="c-njpIL6LN4zoc424hII-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-32" y="5131" as="sourcePoint" />
@@ -450,8 +453,8 @@
             <mxPoint x="77" y="5236" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-209" y="5023" width="19" height="19" as="geometry" />
+        <mxCell id="c-njpIL6LN4zoc424hII-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="-256" y="4991" width="19" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
