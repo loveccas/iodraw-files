@@ -396,7 +396,10 @@
         <mxCell id="c-njpIL6LN4zoc424hII-1" value="地面站或代码预设航路点列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-327" y="4351" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-2" value="WGS‑84坐标系转NED坐标系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c-njpIL6LN4zoc424hII-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-njpIL6LN4zoc424hII-2" target="c-njpIL6LN4zoc424hII-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-njpIL6LN4zoc424hII-2" value="WGS‑84坐标系转本地（home）NED坐标系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-181" y="4351" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c-njpIL6LN4zoc424hII-3" value="航路点线性差值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
