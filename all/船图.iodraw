@@ -403,10 +403,10 @@
           <mxGeometry x="-35" y="4446" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c-njpIL6LN4zoc424hII-5" value="4级串级PID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="246" y="4351" width="120" height="60" as="geometry" />
+          <mxGeometry x="-181" y="4445" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c-njpIL6LN4zoc424hII-6" value="电机力矩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="383" y="4351" width="120" height="60" as="geometry" />
+          <mxGeometry x="-327" y="4446" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
