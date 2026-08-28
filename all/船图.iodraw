@@ -351,8 +351,8 @@
         <mxCell id="JbfIdq2zpQrfQx0vHxM_-50" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="57" y="3477" width="42" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="JbfIdq2zpQrfQx0vHxM_-51" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="147.90911865234375" y="3503.666666666667" width="140" height="160" as="geometry" />
+        <mxCell id="JbfIdq2zpQrfQx0vHxM_-52" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="3433" width="42" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
