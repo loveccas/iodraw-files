@@ -411,7 +411,7 @@
         <mxCell id="c-njpIL6LN4zoc424hII-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c-njpIL6LN4zoc424hII-4" target="c-njpIL6LN4zoc424hII-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-4" value="轨迹生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c-njpIL6LN4zoc424hII-4" value="轨迹生成（期望位置、速度、）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-35" y="4446" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c-njpIL6LN4zoc424hII-5" value="4级串级PID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
