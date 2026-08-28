@@ -268,8 +268,8 @@
         <mxCell id="JbfIdq2zpQrfQx0vHxM_-15" value="舵机pwm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="280" y="2805" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbfIdq2zpQrfQx0vHxM_-17" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;color: rgba(13, 13, 13, 0.9); font-size: 17px; text-align: start; white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;外接圆坐标与图像中点坐标的&lt;/span&gt;&lt;span style=&quot;font-size: 17px; text-align: start; white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;水平&amp;amp;垂直误差&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=17;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="2810" width="186" height="70" as="geometry" />
+        <mxCell id="JbfIdq2zpQrfQx0vHxM_-17" value="&lt;div style=&quot;text-align: start; font-size: 17px;&quot;&gt;&lt;font color=&quot;rgba(13, 13, 13, 0.9)&quot;&gt;&lt;span style=&quot;white-space-collapse: break-spaces;&quot;&gt;巡线&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=17;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-374" y="3725" width="186" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
