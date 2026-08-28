@@ -435,14 +435,11 @@
         <mxCell id="c-njpIL6LN4zoc424hII-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;rotation=-90;" vertex="1" parent="c-njpIL6LN4zoc424hII-16">
           <mxGeometry x="89" y="36" width="27" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="c-njpIL6LN4zoc424hII-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="7" y="5095" as="sourcePoint" />
-            <mxPoint x="57" y="5045" as="targetPoint" />
+            <mxPoint x="-95" y="5031" as="sourcePoint" />
+            <mxPoint x="25" y="5031" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="5031" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
