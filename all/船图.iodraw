@@ -226,7 +226,7 @@
         <mxCell id="JbfIdq2zpQrfQx0vHxM_-2" value="Kp*error" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="2680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbfIdq2zpQrfQx0vHxM_-3" value="Ki*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbfIdq2zpQrfQx0vHxM_-3" value="Ki*∫" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="2800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
