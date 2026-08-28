@@ -435,6 +435,12 @@
         <mxCell id="c-njpIL6LN4zoc424hII-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;rotation=-90;" vertex="1" parent="c-njpIL6LN4zoc424hII-16">
           <mxGeometry x="89" y="36" width="27" height="8" as="geometry" />
         </mxCell>
+        <mxCell id="c-njpIL6LN4zoc424hII-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-32" y="5132" as="sourcePoint" />
+            <mxPoint x="18" y="5082" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
