@@ -441,13 +441,13 @@
         <mxCell id="c-njpIL6LN4zoc424hII-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="c-njpIL6LN4zoc424hII-16">
           <mxGeometry x="44" y="30.5" width="19" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="c-njpIL6LN4zoc424hII-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-32" y="5131" as="sourcePoint" />
             <mxPoint x="80" y="5045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="c-njpIL6LN4zoc424hII-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-31" y="5159" as="sourcePoint" />
             <mxPoint x="77" y="5236" as="targetPoint" />
