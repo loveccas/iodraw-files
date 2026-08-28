@@ -229,8 +229,8 @@
         <mxCell id="JbfIdq2zpQrfQx0vHxM_-3" value="Ki*∫error(t)dt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="2800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbfIdq2zpQrfQx0vHxM_-4" value="Kp*error(t)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="2690" width="120" height="60" as="geometry" />
+        <mxCell id="JbfIdq2zpQrfQx0vHxM_-4" value="Kd*derror(t)/dt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="2923" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
