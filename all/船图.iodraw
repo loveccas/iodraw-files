@@ -348,14 +348,8 @@
         <mxCell id="JbfIdq2zpQrfQx0vHxM_-49" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;状态机&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-128.69" y="3557" width="90" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="JbfIdq2zpQrfQx0vHxM_-50" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="189" y="3432" width="46" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="JbfIdq2zpQrfQx0vHxM_-52" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="98" y="3461" width="46" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="JbfIdq2zpQrfQx0vHxM_-53" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="85" y="3654" width="26" height="29" as="geometry" />
+        <mxCell id="JbfIdq2zpQrfQx0vHxM_-53" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=19;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="85" y="3653" width="29" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JbfIdq2zpQrfQx0vHxM_-55" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-105" y="3726" width="26" height="29" as="geometry" />
