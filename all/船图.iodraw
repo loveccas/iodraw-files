@@ -390,34 +390,37 @@
         <mxCell id="JbfIdq2zpQrfQx0vHxM_-69" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;strokeWidth=3;fontColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="-200" y="3718" width="46" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-njpIL6LN4zoc424hII-1" target="c-njpIL6LN4zoc424hII-2">
+        <mxCell id="c-njpIL6LN4zoc424hII-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="c-njpIL6LN4zoc424hII-1" target="c-njpIL6LN4zoc424hII-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-1" value="地面站或代码预设航路点列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c-njpIL6LN4zoc424hII-1" value="地面站或代码预设航路点列表" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-327" y="4351" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-njpIL6LN4zoc424hII-2" target="c-njpIL6LN4zoc424hII-3">
+        <mxCell id="c-njpIL6LN4zoc424hII-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="c-njpIL6LN4zoc424hII-2" target="c-njpIL6LN4zoc424hII-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-2" value="WGS‑84坐标系转本地（home）NED坐标系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c-njpIL6LN4zoc424hII-2" value="WGS‑84坐标系转本地（home）NED坐标系" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-181" y="4351" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c-njpIL6LN4zoc424hII-3" target="c-njpIL6LN4zoc424hII-4">
+        <mxCell id="c-njpIL6LN4zoc424hII-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="c-njpIL6LN4zoc424hII-3" target="c-njpIL6LN4zoc424hII-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-3" value="航路点线性差值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c-njpIL6LN4zoc424hII-3" value="航路点线性差值" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-35" y="4351" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c-njpIL6LN4zoc424hII-4" target="c-njpIL6LN4zoc424hII-5">
+        <mxCell id="c-njpIL6LN4zoc424hII-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="c-njpIL6LN4zoc424hII-4" target="c-njpIL6LN4zoc424hII-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-4" value="轨迹生成（期望位置、速度、）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c-njpIL6LN4zoc424hII-4" value="轨迹生成（期望位置、速度、）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-35" y="4446" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-5" value="4级串级PID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c-njpIL6LN4zoc424hII-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="c-njpIL6LN4zoc424hII-5" target="c-njpIL6LN4zoc424hII-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-njpIL6LN4zoc424hII-5" value="4级串级PID" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-181" y="4445" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c-njpIL6LN4zoc424hII-6" value="电机力矩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c-njpIL6LN4zoc424hII-6" value="电机力矩" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-327" y="4446" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
