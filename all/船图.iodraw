@@ -393,6 +393,9 @@
         <mxCell id="c-njpIL6LN4zoc424hII-1" value="地面站或代码预设航路点列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-327" y="4351" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="c-njpIL6LN4zoc424hII-2" value="地面站或代码预设航路点列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-317" y="4361" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
