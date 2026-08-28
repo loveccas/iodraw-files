@@ -268,8 +268,8 @@
         <mxCell id="JbfIdq2zpQrfQx0vHxM_-15" value="舵机pwm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="280" y="2805" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbfIdq2zpQrfQx0vHxM_-17" value="&lt;div style=&quot;text-align: start; font-size: 17px;&quot;&gt;&lt;font color=&quot;rgba(13, 13, 13, 0.9)&quot;&gt;&lt;span style=&quot;white-space-collapse: break-spaces;&quot;&gt;巡线&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=17;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-374" y="3725" width="186" height="70" as="geometry" />
+        <mxCell id="JbfIdq2zpQrfQx0vHxM_-18" value="&lt;span style=&quot;color: rgb(0, 0, 48); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-weight: 700; text-align: start; white-space-collapse: break-spaces;&quot;&gt;巡线&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-141" y="3654" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
