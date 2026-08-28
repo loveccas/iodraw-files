@@ -268,10 +268,13 @@
         <mxCell id="JbfIdq2zpQrfQx0vHxM_-15" value="舵机pwm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="280" y="2805" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JbfIdq2zpQrfQx0vHxM_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbfIdq2zpQrfQx0vHxM_-18" target="JbfIdq2zpQrfQx0vHxM_-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JbfIdq2zpQrfQx0vHxM_-18" value="&lt;span style=&quot;color: rgb(0, 0, 48); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-weight: 700; text-align: start; white-space-collapse: break-spaces;&quot;&gt;巡线&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-141" y="3654" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbfIdq2zpQrfQx0vHxM_-19" value="&lt;span style=&quot;color: rgb(0, 0, 48); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-weight: 700; text-align: start; white-space-collapse: break-spaces;&quot;&gt;巡线&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JbfIdq2zpQrfQx0vHxM_-19" value="&lt;span style=&quot;color: rgb(0, 0, 48); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; font-weight: 700; text-align: start; white-space-collapse: break-spaces;&quot;&gt;避障&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="84" y="3654" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
