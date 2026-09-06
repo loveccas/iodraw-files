@@ -483,6 +483,9 @@
         <mxCell id="ixGFWlINXNviAxJyu0KU-3" value="STM32" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-285" y="5860" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ixGFWlINXNviAxJyu0KU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ixGFWlINXNviAxJyu0KU-4" target="ixGFWlINXNviAxJyu0KU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixGFWlINXNviAxJyu0KU-4" value="总线舵机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-285" y="5944" width="120" height="60" as="geometry" />
         </mxCell>
@@ -495,7 +498,7 @@
         <mxCell id="ixGFWlINXNviAxJyu0KU-7" value="电源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="28" y="5863" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ixGFWlINXNviAxJyu0KU-9" value="总线舵机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ixGFWlINXNviAxJyu0KU-9" value="机械结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-285" y="6028" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
