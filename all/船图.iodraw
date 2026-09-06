@@ -499,7 +499,7 @@
           <mxGeometry x="-142" y="5860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ixGFWlINXNviAxJyu0KU-7" value="12V Power" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-555.53" y="6046" width="120" height="60" as="geometry" />
+          <mxGeometry x="-574" y="6096" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ixGFWlINXNviAxJyu0KU-9" value="机械结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-285" y="6028" width="120" height="60" as="geometry" />
