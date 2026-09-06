@@ -483,8 +483,11 @@
         <mxCell id="ixGFWlINXNviAxJyu0KU-4" value="总线舵机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-115" y="5786" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ixGFWlINXNviAxJyu0KU-5" value="总线舵机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="5796" width="120" height="60" as="geometry" />
+        <mxCell id="ixGFWlINXNviAxJyu0KU-5" value="摄像头" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="28" y="5790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixGFWlINXNviAxJyu0KU-6" value="摄像头" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="5800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
