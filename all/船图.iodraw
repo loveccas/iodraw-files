@@ -561,8 +561,8 @@
         <mxCell id="WxxwJ1EEYrf8MOZ7f2ax-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;3510&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="63" y="6511" width="81" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="WxxwJ1EEYrf8MOZ7f2ax-17" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-48" y="6530" width="60" height="80" as="geometry" />
+        <mxCell id="WxxwJ1EEYrf8MOZ7f2ax-17" value="&lt;b&gt;CAN信号&lt;/b&gt;" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-512" y="6691" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
